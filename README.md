@@ -5,7 +5,7 @@
 
 
 ```javascript
-const webDeveloper = {name:"Felipe", stack:"Full-Stack-Developer"}
+const webDeveloper = {name:"Sara", stack:"Full-Stack-Developer"}
 app.get('/', (req, res) =>{
   return res.send(webDeveloper)
 }),
