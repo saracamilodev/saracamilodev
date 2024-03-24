@@ -51,6 +51,4 @@
 [![GitHub](https://img.shields.io/github/followers/saracamilodev?label=follow&style=social)](https://github.com/saracamilodev)
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
-
 
