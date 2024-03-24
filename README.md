@@ -5,8 +5,8 @@
 - 👩🏼‍💻 Sou uma desenvolvedora apaixonada por café e tecnologias. Adoro transformar ideias em realidade com código.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas no Unifanor Wyden.
-- 💼 Trabalhando como Desenvolvimento Fulltack.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 💼 Trabalhando como Desenvolvimento Fullstack.
+- 🌱 Aprendendo mais sobre PHP, Laravel e tudo possível relacionado a tecnologia.
 
 ## Minhas Skills
 
